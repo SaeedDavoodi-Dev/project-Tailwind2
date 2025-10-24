@@ -1,6 +1,8 @@
 # 🎯 Responsive Website
 
-<img width="1334" height="550" alt="Image" src="https://github.com/user-attachments/assets/6e0a1e07-4453-419a-ae54-422082b33ae9" />
+<img width="1000" height="432" alt="Image" src="https://github.com/user-attachments/assets/b3f1c1d3-ce0c-4ffb-ae42-cf1b6585b162" />
+
+<img width="1000" height="431" alt="Image" src="https://github.com/user-attachments/assets/4b3f10c4-ad72-4779-9c65-122b5fbbb930" />
   
 ## 📖 Description : 
 This website is responsive.
