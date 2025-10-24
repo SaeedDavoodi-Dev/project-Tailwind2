@@ -6,6 +6,14 @@
   
 ## 📖 Description : 
 A fully responsive website built with Tailwind CSS, HTML, and CSS. Features modern design and seamless adaptability across all devices.
+
+## :sparkles: Features
+
+- 🎨 Responsive Design: Fully adaptive layout for all screen sizes
+- ⚡ CSS Animations: Smooth transitions and keyframe animations
+- 🖱 Interactive Elements: Custom hover effects and micro-interactions
+- 🎯 Tailwind Utilities: Efficient styling with Tailwind's utility classes
+- 🚀 Performance Optimized: Fast loading and smooth interactions
   
 ---
   
