@@ -5,8 +5,9 @@
 <img width="1000" height="431" alt="Image" src="https://github.com/user-attachments/assets/4b3f10c4-ad72-4779-9c65-122b5fbbb930" />
   
 ## 📖 Description : 
-This website is responsive.
-I built this website with Tailwind, Html and css.
+A fully responsive website built with Tailwind CSS, HTML, and CSS. Features modern design and seamless adaptability across all devices.
+
+Tech Stack: Tailwind CSS · HTML5 · CSS3
   
 ---
   
