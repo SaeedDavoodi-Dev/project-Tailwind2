@@ -6,8 +6,6 @@
   
 ## 📖 Description : 
 A fully responsive website built with Tailwind CSS, HTML, and CSS. Features modern design and seamless adaptability across all devices.
-
-Tech Stack: Tailwind CSS · HTML5 · CSS3
   
 ---
   
