@@ -23,7 +23,7 @@ I built this website with Tailwind, Html and css.
   
 - Developed by SAEED DAVOODI
 
-- Created - 2025-10-25
+- Created - 2025-10-24
 
 - Role - Frontend
 
