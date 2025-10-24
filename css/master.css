@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@layer utilities {
+    .row {
+        @apply flex flex-wrap w-full;
+    }
+}
+@theme {
+    --animate-bg1: bg1 12s ease infinite;
+    @keyframes bg1 {
+        0%{left: 0;}
+        40%{left: 0;}
+        50%{left: 100%;}
+        50.00001%{left: -100%;}
+        90%{left: -100%;}
+        100%{left: 0;}
+    }
+}
+@theme {
+    --animate-bg2: bg2 12s ease infinite;
+    @keyframes bg2 {
+        0%{left: -100%;}
+        40%{left: -100%;}
+        50%{left: 0;}
+        90%{left: 0;}
+        99.9999%{left: 100%;}
+        100%{left: -100%;}
+
+    }
+}
